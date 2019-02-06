@@ -67,6 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bellslim_medium-webfont.svg" />
+    <Content Include="bellslim_regular-webfont.svg" />
+    <Content Include="bellslim_semibold-webfont.svg" />
     <Content Include="default.html" />
     <Content Include="Global.asax" />
     <Content Include="mainpage.jpg" />
@@ -80,6 +83,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bellslim_medium-webfont-1.eot" />
+    <Content Include="bellslim_medium-webfont.bin" />
+    <Content Include="bellslim_medium-webfont.eot" />
+    <Content Include="bellslim_medium-webfont.woff" />
+    <Content Include="bellslim_regular-webfont-1.eot" />
+    <Content Include="bellslim_regular-webfont.bin" />
+    <Content Include="bellslim_regular-webfont.eot" />
+    <Content Include="bellslim_regular-webfont.woff" />
+    <Content Include="bellslim_semibold-webfont-1.eot" />
+    <Content Include="bellslim_semibold-webfont.bin" />
+    <Content Include="bellslim_semibold-webfont.eot" />
+    <Content Include="bellslim_semibold-webfont.woff" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
